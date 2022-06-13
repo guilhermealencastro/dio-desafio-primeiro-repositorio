@@ -1,0 +1,1 @@
+exemplo: se houver mudança na blob, reflete no sha1 da tree e consequentemente no do commit
